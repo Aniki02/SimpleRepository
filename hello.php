@@ -1,1 +1,2 @@
-echo "Hello";
+$msg = "hello";
+echo $msg;
